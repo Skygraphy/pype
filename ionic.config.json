@@ -1,0 +1,7 @@
+{
+  "name": "pype",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
